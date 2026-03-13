@@ -1,2 +1,43 @@
-# DIP-course-homework
-Coursework for Digital Image Processing (2026 Spring) - Homework &amp; Projects
+# Assignment 1 - Image Warping
+
+### In this assignment, I finished 2  basic transformation and point-based deformation for images.
+
+## Implementation of Image Geometric Transformation
+
+This repository is Jialing Zhang's implementation of Assignment_01 of DIP. 
+
+<img src="pics/teaser.png" alt="alt text" width="800">
+
+## Requirements
+
+To install requirements:
+
+```setup
+python -m pip install -r requirements.txt
+```
+
+
+## Running
+
+To run basic transformation, run:
+
+```basic
+python run_global_transform.py
+```
+
+To run point guided transformation, run:
+
+```point
+python run_point_transform.py
+```
+
+## Results (need add more result images)
+### Basic Transformation
+<img src="pics/global_demo.gif" alt="alt text" width="800">
+
+### Point Guided Deformation:
+<img src="pics/point_demo.gif" alt="alt text" width="800">
+
+## Acknowledgement
+
+>📋 Thanks for the algorithms proposed by [Image Deformation Using Moving Least Squares](https://people.engr.tamu.edu/schaefer/research/mls.pdf).
