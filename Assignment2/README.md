@@ -37,7 +37,7 @@ Train the model to translate map tiles into satellite imagery using the Google M
 Step A: Prepare the Dataset
 Option 1: Automatic Download (if available)
 ```
-bash download_maps_dataset.sh
+bash download_facades_dataset.sh
 ```
 Option 2: Manual Setup (Local)
 
