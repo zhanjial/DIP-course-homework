@@ -104,10 +104,21 @@ The following GIF demonstrates the interactive process of selecting a source reg
 
 ![Interactive Demo](./result/PoissonImageBlending_shark-ezgif.com-video-to-gif-converter.gif)
 
-![Result1](./result/function1.png)
-![Result1](./result/function2.png)
 
-<img src="./result/result_2.webp" width="45%" alt="Result 2"><img src="./result/image.webp" width="45%" alt="Result 3" style="margin-left: 10px;">
+#### 1. Function Results 
+| 1. Source Image | 2. Mask Area | 3. Target Background | 4. Blending Result |
+| :---: | :---: | :---: | :---: |
+| <img src="./result/function1.png" width="220"> | <img src="./result/function2.png" width="220"> | <img src="./result/function3.png" width="220"> | <img src="./result/function4.png" width="220"> |
+
+#### 2. Monolisa Results 
+| 1. Source Image | 2. Mask Area | 3. Target Background | 4. Blending Result |
+| :---: | :---: | :---: | :---: |
+| <img src="./result/M1.png" width="220"> | <img src="./result/M2.png" width="220"> | <img src="./result/M3.png" width="220"> | <img src="./result/M4.png" width="220"> |
+
+#### 3. Shark Results 
+| 1. Source Image | 2. Mask Area | 3. Target Background | 4. Blending Result |
+| :---: | :---: | :---: | :---: |
+| <img src="./result/shark1.png" width="220"> | <img src="./result/shark2.png" width="220"> | <img src="./result/shark3.png" width="220"> | <img src="./result/shark4.png" width="220"> |
 
 
 ### 2. Pix2Pix on Maps Dataset
